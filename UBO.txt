@@ -1,0 +1,1 @@
+webstatic-sea.mihoyo.com/dora/lib/sentry/5.10.2/sentry.min.js
